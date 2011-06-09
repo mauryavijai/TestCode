@@ -1,0 +1,6 @@
+<built-in>:0: warning: -fobjc-gc not supported for iPhone OS; ignoring.
+/Nidhi Sharma/5r/Natolli/2011/[110411]Natolli/Classes/ViewTableViewController.m: In function '-[ViewTableViewController viewDidLoad]':
+/Nidhi Sharma/5r/Natolli/2011/[110411]Natolli/Classes/ViewTableViewController.m:129: warning: 'setAllowsImageEditing:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h:110)
+/Nidhi Sharma/5r/Natolli/2011/[110411]Natolli/Classes/ViewTableViewController.m:130: warning: class 'ViewTableViewController' does not implement the 'UINavigationControllerDelegate' protocol
+/Nidhi Sharma/5r/Natolli/2011/[110411]Natolli/Classes/ViewTableViewController.m: In function '-[ViewTableViewController tableView:cellForRowAtIndexPath:]':
+/Nidhi Sharma/5r/Natolli/2011/[110411]Natolli/Classes/ViewTableViewController.m:219: warning: local declaration of 'tableView' hides instance variable

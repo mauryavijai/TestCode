@@ -1,0 +1,2 @@
+/Nidhi Sharma/5r/Natolli/New/[080611]Natolli/Classes/Level2_Details.m: In function '-[Level2_Details viewDidLoad]':
+/Nidhi Sharma/5r/Natolli/New/[080611]Natolli/Classes/Level2_Details.m:174: warning: 'setAllowsImageEditing:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h:110)
