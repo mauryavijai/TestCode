@@ -4631,6 +4631,7 @@ static NSString* MyClassLastAdded_ConditionID = nil;
 			}
 		}
 		
+        
 		// Release the compiled statement from memory
 		sqlite3_finalize(compiledStatement);		
 	}
